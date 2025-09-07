@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
     private void fetchUsers() {
         new Thread(() -> {
             try {
-                URL url = new URL("http://10.109.128.99:5000/users/" + currentUser); // Flask endpoint
+                URL url = new URL("http://ENterurl & port/users/" + currentUser); // Flask endpoint
                 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
                 conn.setRequestMethod("GET");
 
