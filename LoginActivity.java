@@ -32,7 +32,7 @@ public class LoginActivity extends AppCompatActivity {
     // Use a configurable server URL instead of hardcoded IP
     //private static final String SERVER_BASE_URL =
     // Or if you must use IP, at least make it configurable
-     private static final String SERVER_BASE_URL = "http://10.109.128.99:5000";
+     private static final String SERVER_BASE_URL = "http:// Enter url";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
