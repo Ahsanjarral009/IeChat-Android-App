@@ -45,7 +45,7 @@ public class ChatActivity extends AppCompatActivity {
 
     // Use a configurable server URL
     //private static final String SERVER_BASE_URL = "http://your-server-domain.com:5000";
-     private static final String SERVER_BASE_URL = "http://10.109.128.99:5000";
+     private static final String SERVER_BASE_URL = "http://Enter url here";
 
     @SuppressLint("MissingInflatedId")
     @Override
