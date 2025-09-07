@@ -1,0 +1,7 @@
+<!-- res/drawable/splash_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:startColor="#E3F2FD"
+        android:endColor="#1976D2"
+        android:angle="270"/>
+</shape>

@@ -1,0 +1,14 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- App theme (existing) -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- your app theme customizations -->
+    </style>
+
+    <!-- Splash theme: uses window background to show instantly -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

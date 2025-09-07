@@ -1,0 +1,6 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background can be a color or image -->
+    <background android:drawable="@color/soft_blue"/>
+    <!-- Foreground is your logo -->
+    <foreground android:drawable="@drawable/ic_logo" />
+</adaptive-icon>
